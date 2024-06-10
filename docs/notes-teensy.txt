@@ -1,0 +1,19 @@
+(1) teensy
+https://www.pjrc.com/store/teensy40.html#photos
+
+
+download teensy loader on ubuntu and mac
+https://www.pjrc.com/teensy/loader_linux.html
+success
+
+executed ./teensy
+success
+
+screen /dev/ttyACM0 115200 (linux)
+control-c / control-d
+success
+
+
+
+
+

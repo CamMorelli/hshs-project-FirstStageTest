@@ -1,0 +1,8 @@
+config.json
+.vscode/c_cpp_properties.json
+hshs teensy code/.vscode/extensions.json
+hshs python code/__pycache__/
+  
+.DS_Store
+Hardware/.DS_Store
+Hardware/HSHS Test Board 0111/.DS_Store

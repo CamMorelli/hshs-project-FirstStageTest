@@ -1,0 +1,57 @@
+Parameter, Value, Type, State
+Scan Time (s),10,Scan Parameters Control,Opening File
+Scan Range,0.1,Scan Parameters Control,Opening File
+X Range,5.0,Plot Parameters,Opening File
+Laser Low,20.0,Plot Parameters,Opening File
+Laser High,100.0,Plot Parameters,Opening File
+TEC Low,-10.0,Plot Parameters,Opening File
+TEC High,110.0,Plot Parameters,Opening File
+Temper Low,-10.0,Plot Parameters,Opening File
+Temper High,110.0,Plot Parameters,Opening File
+Debug Count,0,Debug Count Value,Opening File
+CRISP Data,True,File Save Parameters,Opening File
+Fit Data,True,File Save Parameters,Opening File
+Metadata,True,File Save Parameters,Opening File
+Responses,True,File Save Parameters,Opening File
+Data Folder,/Users/averyhanna/Desktop/hshs-project/Data,Text Entry,Opening File
+LED Level,100.0,CRISP LED VALUE CONTROL,Opening File
+Scan Time (s),10,CRISP LED Controls,Opening File
+Scan Low,0,CRISP LED Controls,Opening File
+Scan High,100.0,CRISP LED Controls,Opening File
+Servo,500,Servo Value Control,Opening File
+Set Point,0,Set Point Control,Opening File
+K Prop,1.0,PID Gain Controls,Opening File
+K Integ,1.0,PID Gain Controls,Opening File
+K Deriv,0,PID Gain Controls,Opening File
+Diff Time Const,0,PID Diff Time Constant,Opening File
+PID Direction,True,PID Direction Control,Opening File
+MCU Git Version,475155e,System Parameters,Opening File
+Python Git Version,661264f,System Parameters,Opening File
+Scan Time (s),10,Scan Parameters Control,Closing File
+Scan Range,0.1,Scan Parameters Control,Closing File
+X Range,5.0,Plot Parameters,Closing File
+Laser Low,20.0,Plot Parameters,Closing File
+Laser High,100.0,Plot Parameters,Closing File
+TEC Low,-10.0,Plot Parameters,Closing File
+TEC High,110.0,Plot Parameters,Closing File
+Temper Low,-10.0,Plot Parameters,Closing File
+Temper High,110.0,Plot Parameters,Closing File
+Debug Count,0,Debug Count Value,Closing File
+CRISP Data,True,File Save Parameters,Closing File
+Fit Data,True,File Save Parameters,Closing File
+Metadata,True,File Save Parameters,Closing File
+Responses,True,File Save Parameters,Closing File
+Data Folder,/Users/averyhanna/Desktop/hshs-project/Data,Text Entry,Closing File
+LED Level,100.0,CRISP LED VALUE CONTROL,Closing File
+Scan Time (s),10,CRISP LED Controls,Closing File
+Scan Low,0,CRISP LED Controls,Closing File
+Scan High,100.0,CRISP LED Controls,Closing File
+Servo,500,Servo Value Control,Closing File
+Set Point,0,Set Point Control,Closing File
+K Prop,1.0,PID Gain Controls,Closing File
+K Integ,1.0,PID Gain Controls,Closing File
+K Deriv,0,PID Gain Controls,Closing File
+Diff Time Const,0,PID Diff Time Constant,Closing File
+PID Direction,True,PID Direction Control,Closing File
+MCU Git Version,475155e,System Parameters,Closing File
+Python Git Version,661264f,System Parameters,Closing File

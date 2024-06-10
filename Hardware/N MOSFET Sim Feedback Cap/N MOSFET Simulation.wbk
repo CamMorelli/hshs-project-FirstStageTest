@@ -1,0 +1,14 @@
+version 2
+1
+9
+.tran 100n 10u{return}{return}{return}.kicad adjustpaths{return}.save all{return}.probe alli
+3
+2
+I(R2)
+ 
+1
+V(/Vd)
+ 
+1
+V(/Vg)
+ 

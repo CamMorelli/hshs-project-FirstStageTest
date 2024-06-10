@@ -1,0 +1,63 @@
+(1) teensy
+https://www.pjrc.com/store/teensy40.html#photos
+
+
+download teensy loader on ubuntu and mac
+https://www.pjrc.com/teensy/loader_linux.html
+success
+
+executed ./teensy
+success
+
+screen /dev/ttyACM0 115200  (linux)
+screen /dev/ttyACM0 115200  (linux)
+
+control-c / control-d
+success
+
+platformio tutorial
+https://www.youtube.com/watch?v=k3tpNwXEWhU
+
+platformio useful commands:
+View/Command Palette -> PlatformIO: Rebuild Intellisense Index
+
+platformio docs home:
+https://docs.platformio.org/en/latest/core/index.html
+
+
+cd teensy-a(b)
+PATH=${PATH}:${HOME}/.platformio/penv/bin
+
+pio lib search "id:89"
+pio lib search "platform: Espressif 8266 AND keyword:mqtt"
+pio lib search "platform: Espressif 8266 AND keyword:serial"
+pio lib search "id:89 8266 AND keyword:mqtt"
+pio lib search -n mqtt
+pio settings get
+
+There is no equivalent icon in VSCode for this command. If you want to do this in VSCode, click on "pio" folder from right side in Teensy A or teensy
+B and then selecting delete
+rm -rf .pio 
+
+
+This is the same as the trash can
+pio run --target clean
+
+This is the same as the check icon
+pio run -v
+
+This is the same as the right arrow icon
+pio run --target upload
+
+This is the same as the power plug
+pio device monitor
+
+NOTE: WHEN IN TROUBLE and there are issues with common library (i.e., with  LineParsingResult, getToken, etc)  
+or when editing lib from IDE and "trash can" doesn't clear prior pio build,
+try right clicking ".pio" folder from right side in Teensy A or teensy
+B and then selecting delete. This is OK and doesn't hurt anything as .pio will be restored during the next build
+
+
+
+
+

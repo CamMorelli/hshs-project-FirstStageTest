@@ -1,0 +1,53 @@
+[00-16-3d-13] 000319 ready
+[00-16-3d-13] 000320 will process command: [version]
+[00-16-3d-13] 000321 led-controller app teensy-a - git version 475155e
+[00-16-3d-13] 000322 command succeeded
+[00-16-3d-13] 000323 ready
+[00-16-3d-13] 000324 will process command: [reset_state]
+[00-16-3d-13] 000325 command succeeded
+[00-16-3d-13] 000326 ready
+[00-16-3d-13] 000327 will process command: [reset_clock]
+[00-16-3d-13] 000328 command succeeded
+[00-16-3d-13] 000329 ready
+[00-16-3d-13] 000330 will process command: [sensor on]
+[00-16-3d-13] 000331 command succeeded
+[00-16-3d-13] 000332 ready
+[00-16-3d-13] 000333 will process command: [lock off]
+[00-16-3d-13] 000334 invalid argument count
+[00-16-3d-13] 000335 ready
+[00-16-3d-13] 000336 will process command: [servo_level 500]
+[00-16-3d-13] 000337 command succeeded
+[00-16-3d-13] 000338 ready
+[00-16-3d-13] 000339 will process command: [crisp_led 100.0]
+[00-16-3d-13] 000340 command succeeded
+[00-16-3d-13] 000341 ready
+[00-16-3d-13] 000342 will process command: [set_set_point 0]
+[00-16-3d-13] 000343 command succeeded
+[00-16-3d-13] 000344 ready
+[00-16-3d-13] 000345 will process command: [set_pid_gain 1.0 1.0 0]
+[00-16-3d-13] 000346 kProp[0.000]
+[00-16-3d-13] 000347 kInteg:[1.000]
+[00-16-3d-13] 000348 kDeriv:[0.000]
+[00-16-3d-13] 000349 command succeeded
+[00-16-3d-13] 000350 ready
+[00-16-3d-13] 000351 will process command: [set_pid_diff_time_const 0]
+[00-16-3d-13] 000352 differentiator time constant:[0.000]
+[00-16-3d-13] 000353 command succeeded
+[00-16-3d-13] 000354 ready
+[00-16-3d-13] 000355 will process command: [debug_interval 0]
+[00-16-3d-13] 000356 command succeeded
+[00-16-3d-13] 000357 ready
+[00-16-3d-13] 000358 will process command: [set_pid_direction F]
+[00-16-3d-13] 000359 command succeeded
+[00-16-3d-13] 000360 ready
+[00-16-3d-13] 000361 will process command: [zero_cal]
+[00-16-3d-13] 000362 command succeeded
+[00-16-3d-13] 000363 ready
+[00-16-3d-13] 000364 1.517 Zero Cal: laserCurrentVoltsZero: 0.573162 tecCurrentVoltsZero: 0.650556
+[00-16-3d-13] 000365 will process command: [shutdown]
+[00-16-3d-13] 000366 command succeeded
+[00-16-3d-13] 000367 ready
+[00-16-3d-13] 000368 20.624 In Shutdown_Init with stateCounter: 629
+[00-16-3d-13] 000369 0.000 In Shutdown_Init with stateCounter: 0
+[00-16-3d-13] 000370 0.031 In Shutdown_Init with stateCounter: 1
+[00-16-3d-13] 000371 0.031 MCU shutdown complete with stateCounter: 1
